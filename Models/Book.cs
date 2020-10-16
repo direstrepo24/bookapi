@@ -12,6 +12,7 @@ namespace BooksApi.Models
     public class Book
     {
         //propidades del objeto 
+        //BsonIgnoreIfDefault es para obviar el id del json
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
         [BsonIgnoreIfDefault]
