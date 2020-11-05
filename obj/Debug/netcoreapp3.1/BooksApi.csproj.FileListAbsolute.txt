@@ -1,6 +1,5 @@
 /Users/themakers/DevNet/BooksApi/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/themakers/DevNet/BooksApi/bin/Debug/netcoreapp3.1/appsettings.json
-/Users/themakers/DevNet/BooksApi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
 /Users/themakers/DevNet/BooksApi/bin/Debug/netcoreapp3.1/BooksApi.deps.json
 /Users/themakers/DevNet/BooksApi/bin/Debug/netcoreapp3.1/BooksApi.runtimeconfig.json
 /Users/themakers/DevNet/BooksApi/bin/Debug/netcoreapp3.1/BooksApi.runtimeconfig.dev.json
@@ -31,3 +30,4 @@
 /Users/themakers/DevNet/BooksApi/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 /Users/themakers/DevNet/BooksApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
 /Users/themakers/DevNet/BooksApi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/themakers/DevNet/BooksApi/obj/Debug/netcoreapp3.1/scopedcss/bundle/BooksApi.styles.css

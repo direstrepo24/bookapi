@@ -31,7 +31,7 @@ namespace BooksApi.Services
 
         public Book Create(Book book)
         {
-            _books.InsertOne(book);
+            _books.InsertOneAsync(book);
             return book;
         }
 
